@@ -1,0 +1,16 @@
+# SEGRETI e dati personali: non vanno MAI su GitHub
+impostazioni.py
+credentials.json
+token.json
+hud_token.json
+mail_state.json
+mail_state.json.lock
+telegram_memory.json
+Documenti/
+
+# Generati
+*.log
+__pycache__/
+*.pyc
+kokoro-v1.0.onnx
+voices-v1.0.bin

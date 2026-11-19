@@ -1,0 +1,14 @@
+google-genai
+google-api-python-client
+google-auth-oauthlib
+requests
+numpy
+sounddevice
+SpeechRecognition
+kokoro-onnx
+soundfile
+pillow
+python-docx
+caldav
+icalendar
+ddgs
